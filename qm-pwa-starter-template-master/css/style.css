@@ -12,3 +12,6 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.carousel-item {
+    width: 3000px;
+}
